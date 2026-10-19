@@ -1,0 +1,30 @@
+{
+  "mode": "built-in image_gen",
+  "referenceRoles": {
+    "图片/初始.png": "character identity and proportions",
+    "图片/表情/448c4d57a318ed57e87589c29c903379.jpg": "soft sticker illustration style"
+  },
+  "transparentBackground": true,
+  "assets": [
+    {
+      "key": "morning",
+      "path": "早安揉眼睛.png",
+      "prompt": "Create ONE transparent PNG desktop companion sprite, an alternate expression of the SAME white-haired chibi dragon girl in reference 1. Reference 1 defines exact character identity and proportions; reference 2 shows the companion's soft sticker linework. Preserve long white/lavender hair, two pale dragon horns, pointed ears, lavender eyes, small lavender dragon wings and curled fluffy scaled tail, interwoven six-loop knot hair clip with tassel, modest white/lavender Chinese fantasy dress. Large rounded head, tiny full body, chunky clean dark lavender outline, flat pastel cel shading. MORNING JUST WOKE UP: one small hand gently rubbing a closed eye, other hand loosely holding the sleeve near chest, other eye half open drowsy, tiny sleepy smile, slightly tousled cowlick. Adorable and recognizable, nonsexual, fully clothed. Entire character including horns, feet, wings and tail within frame with 6 percent transparent padding. Centered square composition at same scale as reference 1. Isolated true transparent alpha background, no white panel, no shadow floor, no words, no speech bubble, no frame, no extra character. Crisp enough to read at 220 px."
+    },
+    {
+      "key": "sleepy",
+      "path": "深夜困困.png",
+      "prompt": "Create ONE transparent PNG desktop companion sprite of the EXACT SAME chibi white dragon girl as reference 1. Reference 1 is identity/proportions, reference 2 is soft sticker illustration style. Large rounded head, tiny fully clothed full body, white lavender long hair, two pale horns, pointy ears, lavender eyes, knot hairclip and tassel, small lavender dragon wings and curled white scaled fluffy tail. Thick clean dark lavender outlines, pastel flat cel shading. Entire character horns feet tail contained with transparent padding. Square composition, isolated true alpha, no floor shadow, no background, no words/bubbles/watermark, no multiple characters. Readable at 220px. LATE NIGHT SLEEPY expression: tiny open yawning mouth, both eyes relaxed almost closed with a little moisture at the corner, one hand covering yawn, other hand hugging a small lavender star cushion. Wearing the same modest white/lavender Chinese fantasy dress, subtly drooping wings and a relaxed tail. A tender sleepy companion, not crying or upset."
+    },
+    {
+      "key": "festive",
+      "path": "新年灯笼装.png",
+      "prompt": "Create ONE transparent PNG desktop companion sprite of the EXACT SAME chibi white dragon girl as reference 1. Reference 1 is identity/proportions, reference 2 is soft sticker illustration style. Large rounded head, tiny fully clothed full body, white lavender long hair, two pale horns, pointy ears, lavender eyes, knot hairclip and tassel, small lavender dragon wings and curled white scaled fluffy tail. Thick clean dark lavender outlines, pastel flat cel shading. Entire character horns feet tail contained with transparent padding. Square composition, isolated true alpha, no floor shadow, no background, no words/bubbles/watermark, no multiple characters. Readable at 220px. LUNAR NEW YEAR festive outfit: recognizable same girl wearing a modest vermilion red Chinese festive dress and short red capelet with delicate gold plum-blossom trim, cream fur cuffs. A little gold-red ribbon near one horn, original knot hairclip clearly retained. Both hands hold one small red lantern at waist with simple gold pattern and NO text. Cheerful closed-mouth smile, sparkling lavender eyes, raised wings. White hair, pale horns and tail remain unchanged. Limited red/gold accents, soft cute finish."
+    },
+    {
+      "key": "christmas",
+      "path": "圣诞礼物装.png",
+      "prompt": "Create ONE transparent PNG desktop companion sprite of the EXACT SAME chibi white dragon girl as reference 1. Reference 1 is identity/proportions, reference 2 is soft sticker illustration style. Large rounded head, tiny fully clothed full body, white lavender long hair, two pale horns, pointy ears, lavender eyes, knot hairclip and tassel, small lavender dragon wings and curled white scaled fluffy tail. Thick clean dark lavender outlines, pastel flat cel shading. Entire character horns feet tail contained with transparent padding. Square composition, isolated true alpha, no floor shadow, no background, no words/bubbles/watermark, no multiple characters. Readable at 220px. CHRISTMAS WINTER outfit: recognizable same girl wearing a modest red winter cape with fluffy white trim over a white lavender dress, small red Santa hat tilted BETWEEN the two clearly visible pale horns, original knot hairclip retained. Hugging a tiny lavender gift box tied with gold ribbon, happy gentle smile and large lavender eyes. Small snowflake accessory on cape, cozy festive mood. White hair wings and tail still clearly recognizable."
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+GPT DragonGirl Pet - bundled material notices
+
+ZCOOL KuaiLe font
+Source: https://github.com/google/fonts/tree/main/ofl/zcoolkuaile
+License: SIL Open Font License 1.1
+The full license is included in assets/fonts/OFL-ZCOOLKuaiLe.txt.
+
+Microsoft .NET and Windows Desktop runtime
+The self-contained Windows release bundles the official .NET runtime.
+Source and notices: https://github.com/dotnet/runtime
+Windows Desktop: https://github.com/dotnet/wpf and https://github.com/dotnet/winforms
+Runtime license and third-party notice files supplied by Microsoft are retained in the release.
+
+Character art and click sound
+The original character, expression references and sound recording were provided by the project creator.
+Additional morning, night, New Year and Christmas expressions were generated using image_gen.
+Generation prompts and reference roles are recorded in 图片/时间彩蛋/prompts.json.
+The original materials retain their respective rights. This project does not grant a blanket third-party asset license.
+
+Interaction inspiration
+https://github.com/MeteorNOX/DeepSeek-Balance-Whale-Widget
+The application is an independent C# / WPF implementation; code and character assets from that repository are not bundled.

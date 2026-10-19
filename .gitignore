@@ -1,0 +1,15 @@
+src/bin/
+src/obj/
+.build-env/
+发布/
+data/
+*.user
+.build-tools/
+.build-audio/
+artifacts/
+**/data/
+*.lnk
+*.pdb
+test-results.txt
+.vs/
+.DS_Store

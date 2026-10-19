@@ -1,0 +1,10 @@
+{
+  "source": "1f3dedd2e81d2553ee2bd9452830d8c8.mp4",
+  "startSeconds": 0.468,
+  "endSeconds": 0.94,
+  "sampleRate": 48000,
+  "channels": 1,
+  "bitsPerSample": 16,
+  "processing": "AAC decoded to PCM; one sound extracted; 28 ms of leading low-level background trimmed; no pitch, speed, volume or denoising changes",
+  "pcmSha256": "cf382ab348633f3ed832fcbcbd19d871c5ec2898d89316250b2f62dbe7cbb764"
+}
